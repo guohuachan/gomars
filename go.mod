@@ -1,6 +1,6 @@
 module github.com/shanbay/gobay
 
-go 1.21
+go 1.24
 
 require (
 	entgo.io/ent v0.11.7
